@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578478588 source:c:\users\irina\documents\proiect3poo\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
